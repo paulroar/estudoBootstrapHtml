@@ -1,0 +1,8 @@
+.navbar {
+    background-color: rgba(35, 75, 150, 0.5);
+}
+
+.navbar .navbar-brand img {
+    width: 5vw;
+
+}
