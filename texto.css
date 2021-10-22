@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url('../fontes/Ubuntu-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+
+    font-family: 'ubuntu';
+}
+
+.texto-vertical {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.alinhamento-esquerda {
+    text-align: left;
+
+}
+
+.alinhamento-direita {
+    text-align: right;
+
+}
+
+.texto-formatado {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.texto-transformado {
+    /*text-transform: uppercase;*/
+    font-family: 'Architects Daughter', cursive;
+
+}
